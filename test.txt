@@ -1,0 +1,2 @@
+Dette er en test for å sjekke at git fungerer.
+Elefanter er grønne.
